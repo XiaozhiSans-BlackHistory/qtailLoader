@@ -33,7 +33,7 @@ const qL = {
 					console.log(line);
 				}
 				else if(line != '') {
-					let l = line.split(';');
+					let l = line.split('; ');
 					$("body").append(`
 						<script type="text/javascript" name="${l[1]}" version="${l[2]}" src="${l[0]}"></script>
 					`);
