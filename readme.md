@@ -1,18 +1,19 @@
 ### qtailLoader
-qtail 模块自动加载器,简称 *qL*  
-  
+qtail 模块加载器,简称 *`qL`*
+
 ### 依赖项
-1. [qtail.js](https://github.com/XiaozhiSans/qtail.js) ~  
-> 注: qtail.js 也可通过 qL 加载  
-2. [jQuery](https://github.com/jquery/jquery) ^3.5.1  
-  
+- [jQuery](https://github.com/jquery/jquery) ^3.0.0
+
+
 ### 如何使用
-`git clone git@github.com:XiaozhiSans/qtailLoader.git`  
-把js和ql.ini丢到你的服务器根目录/项目根目录  
-修改ql.ini  
-  
+`git clone git@github.com:XiaozhiSans/qtailLoader.git`
+
+把js和ql.ini丢到你的服务器根目录/项目根目录
+
+修改ql.ini
+
 ### 协议
-```
+```txt LICENSE.txt
 MIT License
 
 Copyright (c) 2024 XiaozhiSans
@@ -36,4 +37,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ```
-  
